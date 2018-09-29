@@ -1,4 +1,4 @@
-# CS5700-NTWK
+# CS5700-NTWK HOMEWORK1
 How to start the server?
 - server is in the cs-5700-1 VM under directory /hw1
 - please check the pdf for ip information
